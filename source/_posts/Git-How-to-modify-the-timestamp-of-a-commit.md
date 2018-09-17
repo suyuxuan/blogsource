@@ -1,7 +1,8 @@
 ---
 title: Git -  How to modify the timestamp of a commit
 date: 2018-09-17 22:59:50
-tags:
+tags: Git
+categories: Tools
 ---
 
 Sometimes we need to modify the date of a commit in git to show a readable history.
