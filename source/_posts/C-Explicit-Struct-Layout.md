@@ -11,6 +11,8 @@ It's been a long time since this blog site was built up. So let me take some not
 
 In c#, it provides ability to control the physical layout of data fields of structure in memory. The following code block shows how to change field memory location in a structure by using `LayoutKind.Explicit`:
 
+<!-- more -->
+
 ```csharp
 [StructLayout (LayoutKind.Explicit)]
 public struct CompositedBits {

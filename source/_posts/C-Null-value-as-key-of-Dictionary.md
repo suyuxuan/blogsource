@@ -1,9 +1,13 @@
 ---
-title: "C# Null value as key of Dictionary"
+title: "C# Null value as Dictionary Key"
 date: 2018-09-14 23:50:27
 tags: C#
 categories: C#
 ---
+
+This is a post about how to use null as dictionary key.
+
+<!-- more -->
 
 ```csharp
 static class NullableKey {
